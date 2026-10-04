@@ -38,3 +38,4 @@ daily-study/
 | [2026-10-02](logs/2026-10/2026-10-02.md) | | FreeRTOS `queue.c` |
 | [2026-10-03](logs/2026-10/2026-10-03.md) | | FreeRTOS `tasks.c` |
 | [2026-10-04](logs/2026-10/2026-10-04.md) | | TFLite Micro `conv.cc` |
+| [2026-10-05](logs/2026-10/2026-10-05.md) | | FreeRTOS `timers.c` |
