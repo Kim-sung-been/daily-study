@@ -40,3 +40,4 @@ daily-study/
 | [2026-10-04](logs/2026-10/2026-10-04.md) | [햄버거 만들기]| TFLite Micro `conv.cc` |
 | [2026-10-05](logs/2026-10/2026-10-05.md) | | FreeRTOS `timers.c` |
 | [2026-10-06](logs/2026-10/2026-10-06.md) | | TFLite Micro `quantize_common.cc` |
+| [2026-10-07](logs/2026-10/2026-10-07.md) | | Zephyr `ring_buffer.h` |
